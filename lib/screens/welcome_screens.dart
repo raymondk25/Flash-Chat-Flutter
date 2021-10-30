@@ -101,4 +101,3 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     );
   }
 }
-// welcome_screen
