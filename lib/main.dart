@@ -31,3 +31,4 @@ class FlashChat extends StatelessWidget {
     );
   }
 }
+// main .dart
